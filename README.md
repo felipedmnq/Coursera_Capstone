@@ -6,4 +6,5 @@ This repository was created for use in the final project of the "**IBM Data Scie
 The challenge was to define a problem and seek a solution to that problem using the tools learned during certification.
 For further information, please read the [FINAL REPORT](https://github.com/felipedmnq/Coursera_Capstone/blob/master/IBM_DS_Munich_capstone_report.pdf).
 
-[alt text](\\Cacique\URCA\Industrial\00 -ÁGUA\FELIPE\2021\PArticular\certificado coursera.jpeg)
+![certificado coursera](https://user-images.githubusercontent.com/71295866/110663755-7f48da80-81a5-11eb-9373-c60d98059ad8.jpg)
+
